@@ -5,7 +5,7 @@ O backend usa Node.js, Express, TypeScript e SQLite.
 
 ## Antes de começar
 
-Instale o Node.js 24 ou superior. O npm vem junto com ele.
+Instale o Node.js 24 ou superior.
 
 Confira as versões no terminal:
 
