@@ -1,7 +1,7 @@
 # Conecta Tech
 
 O frontend usa React, React Router, TypeScript e Tailwind.
-O backend usa Node.js, Express, TypeScript e SQLite.
+O backend usa Node.js, Express, TypeScript e SQLite com uma arquitetura de MVC.
 
 ## Antes de começar
 
